@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # Newsletter Web Application
 
 Welcome to the Newsletter Web Application repository! This project is designed to provide a platform for managing and publishing newsletters effectively.
@@ -22,6 +12,7 @@ Welcome to the Newsletter Web Application repository! This project is designed t
 ## Screenshots
 
 ![About Us](src/screenshots/AboutUs.png)
+![Home](src/screenshots/Home.png)
 ![News](src/screenshots/News.png)
 ![Responsive Design](src/screenshots/Responsive.png)
 ![SweetAlert Notifications](src/screenshots/SweetAlert.png)
@@ -72,4 +63,3 @@ Open a Pull Request License
 ## Contact
 Ahmad - LinkedIn - https://www.linkedin.com/in/ahmad-eyhash-9b5a31317?trk=contact-info
 ## Link: https://github.com/MasterWithAhmad/newsletter-website
->>>>>>> 4d04a25a6b475118d536cace4f69a124fcfdaa65
