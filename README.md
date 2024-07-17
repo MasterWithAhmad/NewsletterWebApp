@@ -67,8 +67,9 @@ Welcome to the Newsletter Web Application repository! This project provides a pl
 
 2. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the application.
 
-## website link
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eb97d0ae-53a0-4e4e-82f9-8d42cd1cb726/deploy-status)](https://app.netlify.com/sites/newsletter-website/deploys)
+## Live demonstration
+https://newsletter-website.netlify.app/
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
