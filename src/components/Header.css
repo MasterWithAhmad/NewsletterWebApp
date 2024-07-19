@@ -1,0 +1,14 @@
+/* src/components/Header.css */
+
+.transition-container {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 1;
+  }
+  
+  .transition-container-exit {
+    opacity: 0;
+  }
+  
+  .transition-container-enter {
+    opacity: 1;
+  }
