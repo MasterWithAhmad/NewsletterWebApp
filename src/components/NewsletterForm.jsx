@@ -5,6 +5,13 @@ import Swal from 'sweetalert2';
 function NewsletterForm() {
   const { formData, handleChange, handleSubmit } = useForm({
     initialValues: { email: '' },
+    /**
+     * Handles the submission of the newsletter form.
+     * - Checks if the email field is not empty.
+     * - If the email is empty, displays an error message using Swal.
+     * - If the email is valid, displays a success message using Swal.
+     * - Performs any additional submit logic here.
+     */
     onSubmit: () => {
       if (!formData.email.trim()) {
         Swal.fire('Oops!', 'Please enter your email.', 'error');

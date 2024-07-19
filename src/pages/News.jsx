@@ -2,6 +2,10 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useFetchNews } from '../hooks/useFetchNews';
+/**
+ * Imports the Spinner component, which is used to display a loading spinner.
+ * This component is likely used in the News component to indicate that data is being fetched.
+ */
 import Spinner from '../components/Spinner';
 import noImage from '../images/Placeholder.jpeg'; // Import the placeholder image
 

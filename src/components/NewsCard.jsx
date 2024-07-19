@@ -3,6 +3,17 @@ import { Link } from 'react-router-dom';
 
 import PropTypes from 'prop-types';
 
+/**
+ * Renders a news card component with an image, title, publication date, description, and a link to read more.
+ *
+ * @param {Object} article - The article object containing the data to display in the news card.
+ * @param {string} article.urlToImage - The URL of the article's image.
+ * @param {string} article.title - The title of the article.
+ * @param {string} article.publishedAt - The publication date of the article.
+ * @param {string} article.description - The description of the article.
+ * @param {string} article.url - The URL of the article.
+ * @returns {JSX.Element} - The rendered news card component.
+ */
 function NewsCard({ article }) {
   return (
     <div className="bg-white rounded-lg shadow-md p-4 transform hover:-translate-y-2 transition-transform duration-300">
