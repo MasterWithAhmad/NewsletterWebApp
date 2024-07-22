@@ -1,7 +1,7 @@
 // src/api/newsAPI.js
 import axios from 'axios';
 
-const API_KEY = 'fc429c8ef36f46dd93eb9fcd302c549b'; // Replace with your NewsAPI key
+const API_KEY = 'd90b98bb81fc4e328e9911d1465f9ceb'; // Replace with your NewsAPI key
 const BASE_URL = 'https://newsapi.org/v2/top-headlines?country=us';
 
 export const getNews = async (page = 1, pageSize = 6) => {
