@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Ahmed Ibrahim", "role": "Editor-in-Chief", "photo": "src/images/photo1.png", "bio": "Ahmed has over 20 years of experience in journalism." },
+    { "id": 2, "name": "Mudalib Mohamed", "role": "Senior Reporter", "photo": "src/images/photo2.png", "bio": "Mudalib is passionate about uncovering the truth." }
+  ]
+  
