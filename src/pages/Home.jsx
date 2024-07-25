@@ -8,7 +8,7 @@ import Swal from 'sweetalert2';
 import withReactContent from 'sweetalert2-react-content';
 import Loader from '../components/Loader';
 
-const accessKey = 'ly0ivLxK26X92WQzgPj46o3ASB8J7Oz7LhUiVfa7k90';
+const accessKey = 'YOUR UNSLPASH ACCESS KEY';
 
 const MySwal = withReactContent(Swal);
 
