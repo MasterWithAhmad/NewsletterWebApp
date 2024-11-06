@@ -81,7 +81,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 2. **Clone your fork**:
     ```sh
-    git clone https://github.com/YourUsername/NewsletterWebApp.git
+    git clone https://github.com/MasterWithAhmad/NewsletterWebApp.git
     ```
 
 3. **Navigate to your project directory**:
